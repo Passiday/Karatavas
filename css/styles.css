@@ -1,0 +1,55 @@
+h1 {
+  text-align: center;
+}
+
+#progress {
+  margin: 0 auto;
+  width: 300px;
+  border: 3px solid gray;
+  background-color: #ddd;
+}
+
+#jauna-spele {
+  display:block;
+  margin: 10pt auto;
+  text-align: center;
+  width: 300px;
+  height:100px;
+  font-size: 30pt;
+}
+
+#uzdevums {
+  margin: 20px;
+  padding: 20px;
+  text-align: center;
+  font-family: sans-serif;
+  font-size: 50pt;
+  font-weight: bold;
+  letter-spacing: 8pt;
+  display: none;
+}
+
+#burti {
+  text-align: center;
+}
+
+button.burts {
+  width: 80px;
+  height: 80px;
+  text-align: center;
+  font-family: sans-serif;
+  font-size: 50pt;
+  font-weight: bold;
+}
+
+.neitrals {
+  background-color: #bbb;
+}
+
+.pareizi {
+  background-color: #8f8;
+}
+
+.nepareizi {
+  background-color: #f88;
+}
